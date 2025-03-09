@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.exe
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.deps.json
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.runtimeconfig.json
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.dll
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\bin\Debug\net8.0\Assignment 2.pdb
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.AssemblyInfo.cs
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.dll
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\obj\Debug\net8.0\refint\Assignment 2.dll
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.pdb
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\obj\Debug\net8.0\Assignment 2.genruntimeconfig.cache
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Assignment 2\Assignment 2\obj\Debug\net8.0\ref\Assignment 2.dll
