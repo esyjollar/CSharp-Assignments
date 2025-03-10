@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\bin\Debug\net8.0\Dbconnection.exe
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\bin\Debug\net8.0\Dbconnection.deps.json
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\bin\Debug\net8.0\Dbconnection.runtimeconfig.json
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\bin\Debug\net8.0\Dbconnection.dll
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\bin\Debug\net8.0\Dbconnection.pdb
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\obj\Debug\net8.0\Dbconnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\obj\Debug\net8.0\Dbconnection.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\obj\Debug\net8.0\Dbconnection.AssemblyInfo.cs
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\obj\Debug\net8.0\Dbconnection.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\obj\Debug\net8.0\Dbconnection.dll
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\obj\Debug\net8.0\refint\Dbconnection.dll
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\obj\Debug\net8.0\Dbconnection.pdb
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\obj\Debug\net8.0\Dbconnection.genruntimeconfig.cache
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Dbconnection\Dbconnection\obj\Debug\net8.0\ref\Dbconnection.dll
