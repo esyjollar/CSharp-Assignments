@@ -634,6 +634,59 @@ License Suspended.*/
             /*Write a program that reads a text file and displays the number of
             words.*/
 
+            // Specify the path to the text file
+        /*string filePath = "path/to/your/textfile.txt";
+
+        try
+        {
+            // Read the content of the file
+            string content = File.ReadAllText(filePath);
+
+            // Split the content into words
+            string[] words = content.Split(new char[] { ' ', '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
+
+            // Display the number of words
+            Console.WriteLine($"The number of words in the file is: {words.Length}");
+        }
+        catch (Exception ex)
+        {
+            // Handle any errors that may occur
+            Console.WriteLine($"An error occurred: {ex.Message}");
+        }*/
+
+
+        /*Write a program that reads a text file and displays the longest word
+         in the */
+
+         // Specify the path to the text file
+        /*string filePath = "path/to/your/textfile.txt";
+
+        try
+        {
+            // This reads the content of the file
+            string content = File.ReadAllText(filePath);
+
+            // Splits the content into words
+            string[] words = content.Split(new char[] { ' ', '\n', '\r', '\t', '.', ',', ';', ':', '!', '?' }, StringSplitOptions.RemoveEmptyEntries);
+
+            // code to find the longest word
+            string longestWord = string.Empty;
+            foreach (string word in words)
+            {
+                if (word.Length > longestWord.Length)
+                {
+                    longestWord = word;
+                }
+            }
+
+            // Displays the longest word
+            Console.WriteLine($"The longest word in the file is: {longestWord}");
+        }
+        catch (Exception ex)
+        {
+            // Handle any errors that may occur
+            Console.WriteLine($"An error occurred: {ex.Message}");
+        }*/
 
 
 
