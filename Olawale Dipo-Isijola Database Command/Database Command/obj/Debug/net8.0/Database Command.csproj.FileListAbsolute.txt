@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\bin\Debug\net8.0\Database Command.exe
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\bin\Debug\net8.0\Database Command.deps.json
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\bin\Debug\net8.0\Database Command.runtimeconfig.json
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\bin\Debug\net8.0\Database Command.dll
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\bin\Debug\net8.0\Database Command.pdb
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\obj\Debug\net8.0\Database Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\obj\Debug\net8.0\Database Command.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\obj\Debug\net8.0\Database Command.AssemblyInfo.cs
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\obj\Debug\net8.0\Database Command.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\obj\Debug\net8.0\Database Command.dll
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\obj\Debug\net8.0\refint\Database Command.dll
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\obj\Debug\net8.0\Database Command.pdb
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\obj\Debug\net8.0\Database Command.genruntimeconfig.cache
+C:\Users\USER\OneDrive - Esyjay Enterprise\Documents\OPTIMUS BANK TRAINING\Development\C#\Database Command\Database Command\obj\Debug\net8.0\ref\Database Command.dll
